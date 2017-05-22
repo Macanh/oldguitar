@@ -3,7 +3,7 @@ var chords = [
 		chord: ['x', 'x', 0, 2, 3, 1],
 		fingering: ['x', 'x', 0, 2, 3, 1],
 		name: 'D',
-		type: 'mim',
+		type: 'm',
 	},
 	{
 		chord: [0, 2, 2, 0, 0, 0],

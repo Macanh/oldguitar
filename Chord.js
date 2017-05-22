@@ -3,13 +3,13 @@ var chords = [
 		chord: ['x', 'x', 0, 2, 3, 1],
 		fingering: ['x', 'x', 0, 2, 3, 1],
 		name: 'D',
-		type: 'min',
+		type: 'm',
 	},
 	{
 		chord: [0, 2, 2, 0, 0, 0],
 		fingering: [0, 1, 2, 0, 0, 0],
 		name: 'E',
-		type: 'min',
+		type: 'm',
 	},
 	{
         chord: ['x', 0, 2, 0, 2, 0],
@@ -21,19 +21,19 @@ var chords = [
         chord: ['x', 3, 2, 0, 1, 0],
         fingering: ['x', 3, 2, 0, 1, 0],
         name: 'C',
-        type: 'maj',
+        type: '',
     },
     {
         chord: ['x', 'x', 0, 2, 3, 2],
         fingering: ['x', 'x', 0, 1, 3, 2],
         name: 'D',
-        type: 'maj',
+        type: '',
     },
     {
         chord: [3, 2, 0, 0, 3, 3],
         fingering: [2, 1, 0, 0, 3, 4],
         name: 'G',
-        type: 'maj',
+        type: '',
     },
 ];
 function buildChord(){

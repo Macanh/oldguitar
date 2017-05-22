@@ -22,7 +22,15 @@ var chords = [
 		name: 'G',
 		type: 'm',
 	},
-    	{
+
+   
+    {
+        chord: ['x', 0, 2, 2, 2, 0],
+        fingering: ['x', 0, 1, 2, 3, 0],
+        name: 'A',
+        type: '%',
+    },
+	{
         chord: ['x', 3, 2, 0, 1, 0],
         fingering: ['x', 3, 2, 0, 1, 0],
         name: 'C',

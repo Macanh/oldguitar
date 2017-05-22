@@ -24,7 +24,7 @@ var chords = [
 	},
     {
         chord: [0, 0, 2, 2, 2, 0],
-        fingering: [0, 0, 1, 2, 3, 0],
+        fingering: [0, 0, 2, 3, 4, 0],
         name: 'A',
         type: '%',
     },

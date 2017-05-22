@@ -23,8 +23,8 @@ var chords = [
 		type: 'm',
 	},
     {
-        chord: ['x', 0, 2, 2, 2, 0],
-        fingering: ['x', 0, 1, 2, 3, 0],
+        chord: [0, 0, 2, 2, 2, 0],
+        fingering: [0, 0, 1, 2, 3, 0],
         name: 'A',
         type: '%',
     },

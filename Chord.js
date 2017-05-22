@@ -1,9 +1,15 @@
 var chords = [
 	{
+		chord: ['x', 0, 2, 2, 1, 0],
+		fingering: ['x', 'x', 2, 3, 1, 0],
+		name: 'A',
+		type: 'min',
+	},
+	{
 		chord: ['x', 'x', 0, 2, 3, 1],
 		fingering: ['x', 'x', 0, 2, 3, 1],
 		name: 'D',
-		type: 'm',
+		type: 'min',
 	},
 	{
 		chord: [0, 2, 2, 0, 0, 0],

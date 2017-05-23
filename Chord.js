@@ -16,6 +16,12 @@ var chords = [
 		name: 'E',
 		type: 'm',
 	},
+	{
+		chord: [0, 2, 2, 1, 0, 0],
+		fingering: [0, 2, 3, 1, 0, 0],
+		name: 'E',
+		type: '%',
+	},
   	{
 		chord: [3, 'x', 0, 3, 3, 3],
 		fingering: [1, 'x', 0, 2, 3, 4],

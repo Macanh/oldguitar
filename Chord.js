@@ -1,7 +1,7 @@
 var chords = [
 	{
 		chord: ['x', 0, 2, 2, 1, 0],
-		fingering: ['x', 'x', 2, 3, 1, 0],
+		fingering: ['x', 0, 2, 3, 1, 0],
 		name: 'A',
 		type: 'm'},
     {
